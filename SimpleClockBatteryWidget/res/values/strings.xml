@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">SimpleClockBatteryWidget</string>
+    
+    <string name="empty"/><color name="font_color">#ffffff</color>
+
+</resources>
